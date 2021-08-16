@@ -1,0 +1,25 @@
+.paging-container{
+    margin: 10px;
+    display:block;
+    background-color: #BBFFF2;
+    padding:20px;
+    text-align: right;
+}
+
+.page-item{
+    margin: 5px;
+    color:black;
+    
+}
+.list-container{
+    background-color:#82D9EF;
+    color:black;
+    margin: 20px;
+    padding: 50px;
+
+}
+.list{
+    margin: 10px;
+    font-size: 40px;
+
+}
